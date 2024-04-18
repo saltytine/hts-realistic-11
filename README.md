@@ -1,7 +1,7 @@
 # a silly lil writeup of hts realistic 11
 pretty fun one  
 
-The lil blurb that tells us what to do
+The lil blurb that tells us what to do  
 ![image](https://github.com/saltytine/hts-realistic-11/assets/156854448/d2ac04c7-be8b-4310-a530-e2bb19bdf958)
 
 This is the main page  
